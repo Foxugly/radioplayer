@@ -1,0 +1,25 @@
+# liste des radios internet francophones. Voir ici par exemple:
+# http://fluxradios.blogspot.fr
+# format des lignes: nom_radio | url_radio
+# les lignes vides ou commençant par '#' ne comptent pas
+Classic 21 | http://radios.rtbf.be/classic21-128.mp3
+Bel-RTL | http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
+Fun Radio Belgique | http://live.funradio.be/funradiobe-high.mp3
+La Première Bruxelles | http://radios.rtbf.be/laprem1erebxl-128.mp3
+Nostalgie Belgique |  http://streamingp.shoutcast.com/NostalgiePremium-mp3
+Nostalgie + | http://streamingp.shoutcast.com/nostaplus-mp3
+NRJ Belgique | http://streamingp.shoutcast.com/NRJ
+Radio Contact | http://audiostream.rtl.be/contactfr192
+RadioSwissClassic | http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
+France Musique | http://direct.francemusique.fr/live/francemusique-midfi.mp3
+RadioClassique | http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
+Nostalgie France | http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3
+Fréquence3 |  http://ice.stream.frequence3.net/frequence3-128.mp3
+NRJ France | http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3
+Skyrock France | http://www.skyrock.fm/stream.php/tunein16_128mp3.mp3
+Cherie FM | http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3
+Rires et Chansons | http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3
+Fun radio France | http://streaming.radio.funradio.fr/fun-1-44-128
+RTL2 | http://streaming.radio.rtl2.fr/rtl2-1-44-128
+OuiFM | http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+Mistral FM (Toulon) | http://mistralfm.ice.infomaniak.ch/mistralfm-high.mp3
