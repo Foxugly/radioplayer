@@ -27,6 +27,7 @@ class RadioPlayerWidget(QMainWindow):
         self._create_toolbar()
         self._create_playlist()
         self.setWindowTitle(constantes.TITLE_APP)
+        self.setWindowIcon(QIcon(constantes.ICON_APP))
         self.resize(300, 600)
         if self.my_player.current_channel is not None:
             self.tw.item(self.my_player.current_channel, 0).setFont(self.fontselect)
@@ -279,3 +280,6 @@ class RadioPlayer:
 
 
 rp = RadioPlayer()
+
+# to build an exe on windows :
+# pyinstaller.exe -y -F -w --icon=icons/radio.ico "main.py" -n "RadioPlayer.exe" --clean
